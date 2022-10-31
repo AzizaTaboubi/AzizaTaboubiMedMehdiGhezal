@@ -11,7 +11,7 @@ IOS mini projet
 
 
 
-L’application:
+l’application:
 
 C’est une application mobile IOS avec un modéle commercial gratuit avec des publicités.
 
@@ -41,7 +41,7 @@ Description: L'ouverture est possible à travers un raccourci sur le menu. Il co
 
 Les possesseurs de smartphones; ceux qui peuvent acheter des produits et ceux qui en ont besoin.
 
--   Les Besoins Fonctionnels:
+-  *** Les Besoins Fonctionnels:***
     
 
 -Rechercher un produits bien spécifique
@@ -66,7 +66,7 @@ E-commerce
  
 Mobile, Smartphone. L’application doit être compatible avec ios, android.
 
-**-   Les besoins Non Fonctionnels:**
+***Les besoins Non Fonctionnels:***
 
  Charte graphique:
 
