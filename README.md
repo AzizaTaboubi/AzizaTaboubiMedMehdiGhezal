@@ -10,47 +10,65 @@ IOS mini projet
 ## Création d’une application mobile.
 
 
-1.  Les objectifs de l’application:
-    
 
-Application de comparaison de prix : cette application permet à ses utilisateurs de rechercher différents types d'électroniques et trouver les endroits avec les meilleurs prix (les plus bas ou meilleures ventes) en les comparant.
+L’application:
+
+C’est une application mobile IOS avec un modéle commercial gratuit avec des publicités.
+
+  
+
+Problématique:
+
+Les applications de ventes de produits (informatiques) sont bien nombreuses, et où peut très facilement se perdre parmi tous les chiffres et les marques ainsi que les caractéristiques des articles. Avec Wallet Savior nous avons voulu créer un outil de comparaison afin de faciliter le choix des clients.
+
+  
+
+Les objectifs de l’application:
+
+Application de comparaison des prix : cette application permet à ses utilisateurs de rechercher différents types d'électroniques et trouver les endroits avec les meilleurs prix (les plus bas ou meilleures ventes) en les comparant.
 
 Il comprend également un espace de vente afin que les utilisateurs puissent mettre leurs appareils électroniques en vente.
 
-
-  **Description fonctionnelle des besoins:**
-    
-
-Fonction principale: Enregistrer le contact avec le client
-
-Sous-fonctions:
-  +créer un compte
   
-  +modifier le compte, etc.
   
-  autres fonctions principaux : Faire une annonce de produit
-
-Sous-fonctions :
-
-+ajouter un produit
-
-+lister les produits, etc.
-
-Objectif: Trouver les différents types d'électroniques avec les meilleurs prix et accéder facilement à un masque de saisie comprenant les informations essentielles à demander.
 
 Description: L'ouverture est possible à travers un raccourci sur le menu. Il comprend les informations suivantes : les nouveaux articles, les articles occasions et le profil.
 
-2.  Les cibles:
+  
 
-    Les possesseurs de smartphones; ceux qui peuvent acheter des produits et ceux qui en ont besoin.
+-   Les cibles:
+    
 
-3.  Type de l’application: E-commerce
+Les possesseurs de smartphones; ceux qui peuvent acheter des produits et ceux qui en ont besoin.
+
+-   Les Besoins Fonctionnels:
+    
+
+-Rechercher un produits bien spécifique
+
+-Comparer les prix d’un même produit
+
+-Consulter des produits d’occasions
+
+-Créer un compte
+
+-Afficher des produits d’occasions
+
+-Trier des produits
+
+ Type de l’application:    
+
+E-commerce
 
     
-4.  L’équipement de nos cibles: Mobile, Smartphone. L’application doit être compatible avec ios, android.
+    
+ L’équipement de nos cibles: 
+ 
+Mobile, Smartphone. L’application doit être compatible avec ios, android.
 
 **-   Les besoins Non Fonctionnels:**
-5. Charte graphique:
+
+ Charte graphique:
 
 **Les couleurs utilisés:** 83A5FF(bleu), FFFFFF(blanc), B2BCD6(gris), 3C477F(mauve) et 000000(noir):
 
