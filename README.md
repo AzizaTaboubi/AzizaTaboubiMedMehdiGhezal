@@ -42,10 +42,10 @@ Mobile, Smartphone,  Smart watch. L’application doit être compatible avec ios
   | - Comparer les prix d’un même produit|Sécurité: l’accès aux données de la base n’est possible qu’après une vérification de privilèges et droits d’accès.
   |- Consulter des produits d’occasions|Performance: l’application doit être accessible à plusieurs utilisateurs à la fois, d’où la nécessité du partage de données.
   |- Créer un compte | Structuration du contenu: l’application est structurée sous forme de module
-  |-   Se connecter| //
--   Afficher des produits d’occasions|//
--   Trier des produits|//
--   Notification |//
+  |-   Se connecter| |          .
+-   Afficher des produits d’occasions||
+-   Trier des produits||
+-   Notification ||
 
 
 
@@ -62,7 +62,7 @@ UBUNTU: Normal, Bold, Semi Bold
 
 ## APP USAGE
 **![](https://lh4.googleusercontent.com/-6GYWX_hGTvBS1LwSG0zEOXxQJO9fO-9pph8TKIFU1z4wLIlW5I1NPCF_nKWf3zeCaWOy9su7PmFjJq2iNdKsmJtWF__BSerp7fGs7Kl6eLrgVDr3XtL5XplbKRYwESWoX0pZ2BRYKoU12-krlq5vPxBXlPvQanj4x35v3MWdgwhML0rq8e4KJsAfCDEaw)**
-  -   Contenu de l’application:
+ -   Contenu de l’application:
     
     [NOTRE MAQUETTE](https://www.figma.com/file/35r2qvnmkEIn9jgZnMAAJa/Untitled?node-id=0:1)
 
