@@ -40,12 +40,10 @@ Mobile, Smartphone,  Smart watch. L’application doit être compatible avec ios
 |--|--|
 | -   Rechercher un produit bien spécifique|Convivialité: les interfaces doivent être simples à l’utilisateur et ayant une bonne ergonomie.
   | - Comparer les prix d’un même produit|Sécurité: l’accès aux données de la base n’est possible qu’après une vérification de privilèges et droits d’accès.
-  |- Consulter des produits d’occasions|Performance: l’application doit être accessible à plusieurs utilisateurs à la fois, d’où la nécessité du partage de données.
-  |- Créer un compte | Structuration du contenu: l’application est structurée sous forme de module
-  |-   Se connecter| |          .
--   Afficher des produits d’occasions||
--   Trier des produits||
--   Notification ||
+  |- Consulter des produits d’occasions, Notifications|Performance: l’application doit être accessible à plusieurs utilisateurs à la fois, d’où la nécessité du partage de données.
+  |- Créer un compte, Trier des produits | Structuration du contenu: l’application est structurée sous forme de module
+  |-   Se connecter, Afficher des produits d’occasions | |          .
+
 
 
 
